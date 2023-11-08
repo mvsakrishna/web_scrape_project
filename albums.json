@@ -1,0 +1,38 @@
+[
+    {
+        "Album Title": "Elvis",
+        "Artist": "Elvis Presley",
+        "Tracks": [
+            "Fool",
+            "Where Do I Go from Here?",
+            "Love Me, Love the Life I Lead",
+            "It's Still Here",
+            "It's Impossible"
+        ],
+        "Year": 1973
+    },
+    {
+        "Album Title": "Dangerous",
+        "Artist": "Michael Jackson",
+        "Tracks": [
+            "Jam",
+            "Why You Wanna Trip on Me",
+            "In the Closet",
+            "She Drives Me Wild",
+            "Remember the Time"
+        ],
+        "Year": 1991
+    },
+    {
+        "Album Title": "Purpose",
+        "Artist": "Justin Bieber",
+        "Tracks": [
+            "Mark My Words",
+            "I'll Show You",
+            "What Do You Mean?",
+            "Sorry",
+            "Love Yourself"
+        ],
+        "Year": 2015
+    }
+]
